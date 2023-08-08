@@ -1,5 +1,4 @@
 """
-Cours "Introduction 2" - Exercice "Text Adventure"
 Version Minecraft par Fatih C.
 Sources & Aides:
 https://www.scaler.com/topics/how-to-clear-screen-in-python/
